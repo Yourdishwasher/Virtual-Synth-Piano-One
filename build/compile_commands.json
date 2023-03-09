@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Justin_C_Files_Personal/Programming/CPP_MUSIC_REAL_STUFF/Virtual_Synth_Project_JW_AL_JP/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Justin_C_Files_Personal/Programming/CPP_MUSIC_REAL_STUFF/Virtual_Synth_Project_JW_AL_JP/include -g -o CMakeFiles\\go.exe.dir\\main.cpp.obj -c C:\\Justin_C_Files_Personal\\Programming\\CPP_MUSIC_REAL_STUFF\\Virtual_Synth_Project_JW_AL_JP\\main.cpp",
+  "file": "C:\\Justin_C_Files_Personal\\Programming\\CPP_MUSIC_REAL_STUFF\\Virtual_Synth_Project_JW_AL_JP\\main.cpp"
+}
+]

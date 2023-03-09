@@ -1,0 +1,3 @@
+C:/Justin_C_Files_Personal/Programming/CPP_MUSIC_REAL_STUFF/Virtual_Synth_Project_JW_AL_JP/build/CMakeFiles/go.exe.dir
+C:/Justin_C_Files_Personal/Programming/CPP_MUSIC_REAL_STUFF/Virtual_Synth_Project_JW_AL_JP/build/CMakeFiles/edit_cache.dir
+C:/Justin_C_Files_Personal/Programming/CPP_MUSIC_REAL_STUFF/Virtual_Synth_Project_JW_AL_JP/build/CMakeFiles/rebuild_cache.dir
